@@ -61,6 +61,6 @@ if __name__ == '__main__':
     # val = square(3)
     # print("Squared value is: {}".format(val))
 
-    # a = 20
+    a = 20
     # my_func()
     # print("value of a outside the function:", a)
