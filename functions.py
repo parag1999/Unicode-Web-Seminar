@@ -10,6 +10,11 @@ def greet(name):
 	print("Hello, " + name + "!")
 
 
+# return
+def square(x):
+    return x * x
+
+
 # variable arguments
 def add(x, y):
     z = x + y
@@ -28,11 +33,6 @@ def introduce_team(*names):
 # kwargs
 def speak(sound1, sound2):
     print("Dog says {} and cat says {}".format(sound1, sound2))
-
-
-# return
-def square(x):
-    return x * x
 
 
 # scope and lifetime
